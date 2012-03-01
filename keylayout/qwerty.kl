@@ -80,7 +80,8 @@ key 54    SHIFT_RIGHT
 key 15    TAB
 key 57    SPACE
 key 150   EXPLORER
-key 155   ENVELOPE        
+key 155   ENVELOPE  
+key 127   SYM
 
 key 12    MINUS
 key 13    EQUALS
